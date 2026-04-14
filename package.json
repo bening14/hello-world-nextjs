@@ -1,0 +1,21 @@
+{
+  "name": "hello-world-nextjs",
+  "version": "1.0.0",
+  "description": "Next.js Hello World app for testing",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": ["nextjs", "hello-world", "test"],
+  "author": "Nindya - CV Solusi Cipta Media",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "next": "^13",
+    "react": "^18",
+    "react-dom": "^18"
+  }
+}
